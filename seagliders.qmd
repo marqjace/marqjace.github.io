@@ -1,0 +1,28 @@
+---
+title: "Seagliders"
+---
+
+<div class="hero">
+
+# Seagliders
+
+</div>
+
+<div class="grid">
+
+<div class="card">
+<h3>Overview</h3>
+<p>Description goes here.</p>
+</div>
+
+<div class="card">
+<h3>Data</h3>
+<p>Information about datasets.</p>
+</div>
+
+<div class="card">
+<h3>Missions</h3>
+<p>Deployment summaries.</p>
+</div>
+
+</div>

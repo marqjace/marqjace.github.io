@@ -1,0 +1,28 @@
+---
+title: "Projects"
+---
+
+<div class="hero">
+
+# Projects
+
+</div>
+
+<div class="grid">
+
+<div class="card">
+<h3>Project 1</h3>
+<p>Short description.</p>
+</div>
+
+<div class="card">
+<h3>Project 2</h3>
+<p>Short description.</p>
+</div>
+
+<div class="card">
+<h3>Project 3</h3>
+<p>Short description.</p>
+</div>
+
+</div>

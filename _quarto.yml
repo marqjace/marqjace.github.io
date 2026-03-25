@@ -2,20 +2,20 @@ project:
   type: website
 
 website:
-  title: "Jace Marquardt"
+  title: "Ocean Glider Lab"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: seagliders.qmd
+        text: Seagliders
+      - href: slocum.qmd
+        text: Slocum Gliders
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
