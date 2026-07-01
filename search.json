@@ -1,23 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "Exploring the ocean with autonomous vehicles"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jace Marquardt",
+    "section": "About Me",
+    "text": "About Me\n\nOcean Glider Lab studies how coastal circulation, water properties, and climate variability shape ocean conditions along the shelf. The work combines autonomous underwater vehicles, gliders, ship-based measurements, and data products that make long observing records easier to use.\nThis page uses the same profile-style structure as the reference site: a clear name block, a short research summary, and stacked sections for credentials, experience, and links."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "About",
-    "section": "About",
-    "text": "About\n\nThis is a placeholder for your lab or personal description."
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Jace Marquardt",
+    "section": "Research",
+    "text": "Research\n\n\n\nAutonomous observing\n\n\nGlider deployments, sensor systems, and repeat transects that capture changing coastal conditions over time.\n\n\n\n\nCoastal processes\n\n\nCurrents, upwelling, oxygen variability, and the physical drivers that connect the shelf to marine ecosystems.\n\n\n\n\nData products\n\n\nAnalysis, visualization, and well-documented datasets that support students, collaborators, and field teams."
   },
   {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "About",
-    "section": "Highlights",
-    "text": "Highlights\n\n\n\nField Work\n\n\nOcean deployments and data collection.\n\n\n\n\nData Analysis\n\n\nProcessing and visualization pipelines.\n\n\n\n\nModeling\n\n\nUnderstanding ocean dynamics."
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jace Marquardt",
+    "section": "Education",
+    "text": "Education\n\n\n\nGraduate training in oceanography, marine science, or a related coastal observing field.\n\n\nUndergraduate foundation in the physical sciences, mathematics, engineering, or environmental studies.\n\n\nOngoing learning through field deployments, coding, mentoring, and collaboration."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jace Marquardt",
+    "section": "Experience",
+    "text": "Experience\n\n\n\nResearch and field work on underwater gliders, moorings, and coastal observing projects.\n\n\nLab and teaching support for students working with ocean data, instrumentation, and scientific communication.\n\n\nProject coordination across observing campaigns, data management, and collaborative research efforts."
+  },
+  {
+    "objectID": "index.html#quick-facts",
+    "href": "index.html#quick-facts",
+    "title": "Jace Marquardt",
+    "section": "Quick Facts",
+    "text": "Quick Facts\n\n\nFocusCoastal oceanography\n\n\nToolsGliders, sensors, maps\n\n\nApproachField data and analysis\n\n\nAudienceStudents, collaborators, coastal users"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Jace Marquardt",
+    "section": "Links",
+    "text": "Links\n\n\nHome\nResearch\nEducation\nExperience\nContact"
   }
 ]
