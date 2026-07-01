@@ -1,44 +1,44 @@
 [
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Jace Marquardt",
-    "section": "About Me",
-    "text": "About Me\n\nOcean Glider Lab studies how coastal circulation, water properties, and climate variability shape ocean conditions along the shelf. The work combines autonomous underwater vehicles, gliders, ship-based measurements, and data products that make long observing records easier to use.\nThis page uses the same profile-style structure as the reference site: a clear name block, a short research summary, and stacked sections for credentials, experience, and links."
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Ocean Glider Lab\n\n\nResearch\n\n\nAutonomous observing, coastal processes, and data products that support long-term study of the Oregon shelf and beyond.\n\n\n\n\n\nAutonomous observing\n\n\nGlider deployments, sensor systems, and repeat transects that capture changing coastal conditions over time.\n\n\n\n\nCoastal processes\n\n\nCurrents, upwelling, oxygen variability, and the physical drivers that connect the shelf to marine ecosystems.\n\n\n\n\nData products\n\n\nAnalysis, visualization, and well-documented datasets that support students, collaborators, and field teams."
   },
   {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Jace Marquardt",
-    "section": "Research",
-    "text": "Research\n\n\n\nAutonomous observing\n\n\nGlider deployments, sensor systems, and repeat transects that capture changing coastal conditions over time.\n\n\n\n\nCoastal processes\n\n\nCurrents, upwelling, oxygen variability, and the physical drivers that connect the shelf to marine ecosystems.\n\n\n\n\nData products\n\n\nAnalysis, visualization, and well-documented datasets that support students, collaborators, and field teams."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nJace Marquardt\n",
+    "section": "",
+    "text": "Ocean Glider Lab\n\n\nJace Marquardt\n\n\nAutonomous underwater glider pilot and technician for the Oregon State University Glider Research Group.\n\n\nAbout Me Research Education Experience Links\n\n\n\n\nOcean Glider Lab studies how coastal circulation, water properties, and climate variability shape ocean conditions along the shelf. Use the pages above to move between the major parts of the site.\n\n\n\n\nAbout Me\n\n\nShort bio, research focus, and a few quick facts.\n\n\n\n\nResearch\n\n\nGliders, observing systems, and coastal ocean processes.\n\n\n\n\nEducation\n\n\nAcademic background and training.\n\n\n\n\nExperience\n\n\nField work, project coordination, and teaching support.\n\n\n\n\nLinks\n\n\nContact details and external resources."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Jace Marquardt",
-    "section": "Education",
-    "text": "Education\n\n\n\nGraduate training in oceanography, marine science, or a related coastal observing field.\n\n\nUndergraduate foundation in the physical sciences, mathematics, engineering, or environmental studies.\n\n\nOngoing learning through field deployments, coding, mentoring, and collaboration."
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Ocean Glider Lab\n\n\nEducation\n\n\nAcademic preparation and continuing learning across oceanography, field work, and scientific computing.\n\n\n\n\n\nGraduate training in oceanography, marine science, or a related coastal observing field.\n\n\nUndergraduate foundation in the physical sciences, mathematics, engineering, or environmental studies.\n\n\nOngoing learning through field deployments, coding, mentoring, and collaboration."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Jace Marquardt",
-    "section": "Experience",
-    "text": "Experience\n\n\n\nResearch and field work on underwater gliders, moorings, and coastal observing projects.\n\n\nLab and teaching support for students working with ocean data, instrumentation, and scientific communication.\n\n\nProject coordination across observing campaigns, data management, and collaborative research efforts."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Ocean Glider Lab\n\n\nAbout Me\n\n\nA brief profile, research focus, and a few quick facts about my work with coastal observing systems.\n\n\n\nOcean Glider Lab studies how coastal circulation, water properties, and climate variability shape ocean conditions along the shelf. My work combines autonomous underwater vehicles, gliders, ship-based measurements, and data products that make long observing records easier to use.\n\n\n\nFocusCoastal oceanography\n\n\nToolsGliders, sensors, maps\n\n\nApproachField data and analysis\n\n\nAudienceStudents, collaborators, coastal users"
   },
   {
-    "objectID": "index.html#quick-facts",
-    "href": "index.html#quick-facts",
-    "title": "Jace Marquardt",
-    "section": "Quick Facts",
-    "text": "Quick Facts\n\n\nFocusCoastal oceanography\n\n\nToolsGliders, sensors, maps\n\n\nApproachField data and analysis\n\n\nAudienceStudents, collaborators, coastal users"
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Ocean Glider Lab\n\n\nExperience\n\n\nResearch, field work, teaching support, and project coordination across coastal observing campaigns.\n\n\n\n\n\nResearch and field work on underwater gliders, moorings, and coastal observing projects.\n\n\nLab and teaching support for students working with ocean data, instrumentation, and scientific communication.\n\n\nProject coordination across observing campaigns, data management, and collaborative research efforts."
   },
   {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Jace Marquardt",
-    "section": "Links",
-    "text": "Links\n\n\nHome\nResearch\nEducation\nExperience\nContact"
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
+    "section": "",
+    "text": "Ocean Glider Lab\n\n\nLinks\n\n\nQuick access to the main parts of the site and a place for contact details or external resources.\n\n\n\n\nHome\nAbout Me\nResearch\nEducation\nExperience\nContact"
   }
 ]

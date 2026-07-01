@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://marqjace.github.io/research.html</loc>
+    <lastmod>2026-07-01T22:49:17.319Z</lastmod>
+  </url>
+  <url>
     <loc>https://marqjace.github.io/index.html</loc>
-    <lastmod>2026-07-01T22:40:09.848Z</lastmod>
+    <lastmod>2026-07-01T22:49:27.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marqjace.github.io/education.html</loc>
+    <lastmod>2026-07-01T22:49:17.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marqjace.github.io/about.html</loc>
+    <lastmod>2026-07-01T22:49:17.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marqjace.github.io/experience.html</loc>
+    <lastmod>2026-07-01T22:49:17.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marqjace.github.io/links.html</loc>
+    <lastmod>2026-07-01T22:49:17.321Z</lastmod>
   </url>
 </urlset>
